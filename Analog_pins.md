@@ -2,10 +2,10 @@
 this file will be to explain how to read analog in ESP-IDF from the ADC Channel 
 
 ## Table of Contents
-[What is an ADC](#what-is-an-adc)
-[ESP32-S3 ADC Architecture](#esp32-s3-adc-architecture)
-[ADC One Shot](#adc-one-shot)
-[ADC Continues](#adc-continues)
+- [What is an ADC](#what-is-an-adc)
+- [ESP32-S3 ADC Architecture](#esp32-s3-adc-architecture)
+- [ADC One Shot](#adc-one-shot)
+- [ADC Continues](#adc-continues)
 ## What is an ADC
 
 An ADC (Analog-to-Digital Converter) is the part of the microcontroller that measures analog voltages (continuous signals like 0 – 3.3 V) and converts them into a digital number the CPU can read. </br></br>
